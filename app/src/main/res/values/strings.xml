@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Products</string>
+    <string name="off"> off</string>
+    <string name="product_thumbnail">Product Thumbnail</string>
+    <string name="product_image">product image</string>
+
+</resources>
